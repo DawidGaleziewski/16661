@@ -1,0 +1,13 @@
+body {
+    background: #a53141;
+}
+
+.wrapper {
+    margin: 50%;
+}
+
+.text {
+    color: #fff;
+    text-transform: uppercase;
+    font-size: 32px;
+}
