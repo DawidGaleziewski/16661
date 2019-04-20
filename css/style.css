@@ -20,7 +20,6 @@ body {
 .text-mask {
     display: inline-block;
     position: absolute;
-    border-radius: 50px;
     background-color: #a53141;
     opacity: 0.9;
     height: 200%;
